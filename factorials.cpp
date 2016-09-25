@@ -7,7 +7,7 @@ int main() {
       factorial*=m;
     }
     cout<<"Factorial of "<<n<<" = "<<factorial<<endl;
-     factorial/=factorial;
+    factorial/=factorial;
   }
   return 0;
 }
